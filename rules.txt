@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: whtsky's rules
+! Homepage: https://github.com/whtsky/abp-rules
+! Expires: 5 days
+
+
+! tsdm
+www.tsdm.me###ts_weibo_wrapper
+www.tsdm.me###ts_sidebar_base
+||www.tsdm.me/weibo.html
+www.tsdm.me###ts_sidebar_base
+
+! ourbits
+ourbits.club###ad_belownav
