@@ -5,6 +5,13 @@
 
 
 ! tsdm
+! medals
+||www.aqours.love/img01/medal/
+! groups
+||www.tsdmw.net/img01/grouplogo/
+##.tsdm_statbar.tsdm_pokemon
+##.tsdm_ship
+##.tsdm_ship_box
 www.tsdm.me###ts_weibo_wrapper
 www.tsdm.me###ts_sidebar_base
 ||www.tsdm.me/weibo.html
