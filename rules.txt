@@ -22,3 +22,4 @@ ourbits.club###ad_belownav
 
 ! 价值观
 tracert.alipay.com
+hm.baidu.com
