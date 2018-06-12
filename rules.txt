@@ -25,3 +25,8 @@ tracert.alipay.com
 hm.baidu.com
 
 www.googletagmanager.com/gtag/js
+
+! baidu
+api.share.baidu.com/getnum
+share.baidu.com/static/api/js/
+push.zhanzhang.baidu.com/push.js
