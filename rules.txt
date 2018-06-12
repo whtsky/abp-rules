@@ -29,6 +29,7 @@ www.googletagmanager.com/gtag/js
 ! baidu
 api.share.baidu.com/getnum
 share.baidu.com/static/api/js/
+zz.bdstatic.com/linksubmit/push.js
 push.zhanzhang.baidu.com/push.js
 
 !g-cores
