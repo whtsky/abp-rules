@@ -31,6 +31,9 @@ api.share.baidu.com/getnum
 share.baidu.com/static/api/js/
 zz.bdstatic.com/linksubmit/push.js
 push.zhanzhang.baidu.com/push.js
+exp.bdstatic.com/static/article/lib/share/logger
+jingyan.baidu.com/asyncreq/log
+fex.bdstatic.com/hunter/alog
 
 !g-cores
 g-cores.com/originals/hit
