@@ -33,3 +33,6 @@ push.zhanzhang.baidu.com/push.js
 
 !g-cores
 g-cores.com/originals/hit
+
+!360
+js.passport.qihucdn.com
