@@ -30,3 +30,6 @@ www.googletagmanager.com/gtag/js
 api.share.baidu.com/getnum
 share.baidu.com/static/api/js/
 push.zhanzhang.baidu.com/push.js
+
+!g-cores
+g-cores.com/originals/hit
