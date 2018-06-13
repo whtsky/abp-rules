@@ -9,13 +9,13 @@
 ||www.aqours.love/img01/medal/
 ! groups
 ||www.tsdmw.net/img01/grouplogo/
-##.tsdm_statbar.tsdm_pokemon
-##.tsdm_ship
-##.tsdm_ship_box
-www.tsdm.me###ts_weibo_wrapper
-www.tsdm.me###ts_sidebar_base
-||www.tsdm.me/weibo.html
-www.tsdm.me###ts_sidebar_base
+tsdm.me##.tsdm_statbar.tsdm_pokemon
+tsdm.me##.tsdm_ship
+tsdm.me##.tsdm_ship_box
+tsdm.me###ts_weibo_wrapper
+tsdm.me###ts_sidebar_base
+||tsdm.me/weibo.html
+tsdm.me###ts_sidebar_base
 
 ! ourbits
 ourbits.club###ad_belownav
@@ -53,3 +53,5 @@ mta.qq.com/mta/resource/scripts/mta.tajs
 !v2ex
 v2ex.com/b/i/
 
+!wp-share-list
+###wp-share-list-container
