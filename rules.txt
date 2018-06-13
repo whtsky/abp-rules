@@ -49,3 +49,7 @@ tajs.qq.com
 pingjs.qq.com
 qq.com/cgi-bin/report
 mta.qq.com/mta/resource/scripts/mta.tajs
+
+!v2ex
+v2ex.com/b/i/
+
