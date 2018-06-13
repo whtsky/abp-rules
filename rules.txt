@@ -22,11 +22,12 @@ ourbits.club###ad_belownav
 
 ! 价值观
 tracert.alipay.com
-hm.baidu.com
+
 
 www.googletagmanager.com/gtag/js
 
 ! baidu
+hm.baidu.com
 api.share.baidu.com/getnum
 share.baidu.com/static/api/js/
 zz.bdstatic.com/linksubmit/push.js
@@ -40,3 +41,11 @@ g-cores.com/originals/hit
 
 !360
 js.passport.qihucdn.com
+
+!Tencent
+pingtas.qq.com
+pingfore.qq.com
+tajs.qq.com
+pingjs.qq.com
+qq.com/cgi-bin/report
+mta.qq.com/mta/resource/scripts/mta.tajs
