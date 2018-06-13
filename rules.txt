@@ -41,6 +41,7 @@ g-cores.com/originals/hit
 
 !360
 js.passport.qihucdn.com
+jspassport.ssl.qhimg.com
 
 !Tencent
 pingtas.qq.com
