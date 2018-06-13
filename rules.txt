@@ -56,3 +56,14 @@ v2ex.com/b/i/
 
 !wp-share-list
 ###wp-share-list-container
+
+!pc6
+pc6.com/statistics.php
+pc6.com/static/api/js/share
+pc6.com/static/api/js/view/share_view.js
+pc6.com/static/api/js/trans/
+pc6.com/static/api/js/component/partners.js
+pc6.com/public/images/share.jpg
+tongji.pc6.com
+www.pc6.com###xyx
+
