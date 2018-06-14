@@ -35,6 +35,7 @@ push.zhanzhang.baidu.com/push.js
 exp.bdstatic.com/static/article/lib/share/logger
 jingyan.baidu.com/asyncreq/log
 fex.bdstatic.com/hunter/alog
+bdimg.share.baidu.com/static/js/
 
 !g-cores
 g-cores.com/originals/hit
@@ -67,3 +68,5 @@ pc6.com/public/images/share.jpg
 tongji.pc6.com
 www.pc6.com###xyx
 
+!3dm
+statistics.3dmgame.com
