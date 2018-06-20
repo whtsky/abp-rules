@@ -73,3 +73,7 @@ statistics.3dmgame.com
 
 !yahoo
 full-ruler.secure.yahoo.com/js/pixie.js
+
+!闲鱼上让你下 App 的广告
+2.taobao.com##.xy-guide
+
