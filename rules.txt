@@ -51,6 +51,8 @@ tajs.qq.com
 pingjs.qq.com
 qq.com/cgi-bin/report
 mta.qq.com/mta/resource/scripts/mta.tajs
+prom.b.qq.com
+report.b.qq.com
 
 !v2ex
 v2ex.com/b/i/
@@ -77,3 +79,5 @@ full-ruler.secure.yahoo.com/js/pixie.js
 !闲鱼上让你下 App 的广告
 2.taobao.com##.xy-guide
 
+!凤凰游戏
+fhyx.com/api/shop_big.js
