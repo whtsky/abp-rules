@@ -21,63 +21,63 @@ tsdm.me###ts_sidebar_base
 ourbits.club###ad_belownav
 
 ! 价值观
-tracert.alipay.com
+||tracert.alipay.com
 
 
-www.googletagmanager.com/gtag/js
+||googletagmanager.com/gtag/js
 
 ! baidu
-hm.baidu.com
-api.share.baidu.com/getnum
-share.baidu.com/static/api/js/
-zz.bdstatic.com/linksubmit/push.js
-push.zhanzhang.baidu.com/push.js
-exp.bdstatic.com/static/article/lib/share/logger
-jingyan.baidu.com/asyncreq/log
-fex.bdstatic.com/hunter/alog
-bdimg.share.baidu.com/static/js/
+||hm.baidu.com
+||api.share.baidu.com/getnum
+||share.baidu.com/static/api/js/
+||zz.bdstatic.com/linksubmit/push.js
+||push.zhanzhang.baidu.com/push.js
+||exp.bdstatic.com/static/article/lib/share/logger
+||jingyan.baidu.com/asyncreq/log
+||fex.bdstatic.com/hunter/alog
+||bdimg.share.baidu.com/static/js/
 
 !g-cores
-g-cores.com/originals/hit
+||g-cores.com/originals/hit
 
 !360
-js.passport.qihucdn.com
-jspassport.ssl.qhimg.com
+||js.passport.qihucdn.com
+||jspassport.ssl.qhimg.com
 
 !Tencent
-pingtas.qq.com
-pingfore.qq.com
-tajs.qq.com
-pingjs.qq.com
-qq.com/cgi-bin/report
-mta.qq.com/mta/resource/scripts/mta.tajs
-prom.b.qq.com
-report.b.qq.com
+||pingtas.qq.com
+||pingfore.qq.com
+||tajs.qq.com
+||pingjs.qq.com
+||qq.com/cgi-bin/report
+||mta.qq.com/mta/resource/scripts/mta.tajs
+||prom.b.qq.com
+||report.b.qq.com
 
 !v2ex
-v2ex.com/b/i/
+||v2ex.com/b/i/
 
 !wp-share-list
 ###wp-share-list-container
 
 !pc6
-pc6.com/statistics.php
-pc6.com/static/api/js/share
-pc6.com/static/api/js/view/share_view.js
-pc6.com/static/api/js/trans/
-pc6.com/static/api/js/component/partners.js
-pc6.com/public/images/share.jpg
-tongji.pc6.com
-www.pc6.com###xyx
+||pc6.com/statistics.php
+||pc6.com/static/api/js/share
+||pc6.com/static/api/js/view/share_view.js
+||pc6.com/static/api/js/trans/
+||pc6.com/static/api/js/component/partners.js
+||pc6.com/public/images/share.jpg
+||tongji.pc6.com
+||www.pc6.com###xyx
 
 !3dm
-statistics.3dmgame.com
+||statistics.3dmgame.com
 
 !yahoo
-full-ruler.secure.yahoo.com/js/pixie.js
+||full-ruler.secure.yahoo.com/js/pixie.js
 
 !闲鱼上让你下 App 的广告
-2.taobao.com##.xy-guide
+||2.taobao.com##.xy-guide
 
 !凤凰游戏
-fhyx.com/api/shop_big.js
+||fhyx.com/api/shop_big.js
