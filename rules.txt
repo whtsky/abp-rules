@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/whtsky/abp-rules
 ! Expires: 1 days
 
+common/analytics.js$script
 
 ! tsdm
 ! medals
@@ -51,6 +52,7 @@ ourbits.club###ad_belownav
 ||pingjs.qq.com
 ||qq.com/cgi-bin/report
 ||mta.qq.com/mta/resource/scripts/mta.tajs
+||pub.idqqimg.com/pc/misc/sentry/
 ||prom.b.qq.com
 ||report.b.qq.com
 
