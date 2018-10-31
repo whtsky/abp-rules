@@ -24,7 +24,6 @@ ourbits.club###ad_belownav
 ! 价值观
 ||tracert.alipay.com
 
-
 ||googletagmanager.com/gtag/js
 
 ! baidu
@@ -83,3 +82,7 @@ ourbits.club###ad_belownav
 
 !凤凰游戏
 ||fhyx.com/api/shop_big.js
+
+!gamersky
+||ja1.gamersky.com
+||ja2.gamersky.com
