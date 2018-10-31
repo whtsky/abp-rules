@@ -86,3 +86,6 @@ ourbits.club###ad_belownav
 !gamersky
 ||ja1.gamersky.com
 ||ja2.gamersky.com
+
+!duowan
+||duowan.com/s/statistics.js
