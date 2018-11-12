@@ -18,8 +18,8 @@ tsdm.me###ts_sidebar_base
 ||tsdm.me/weibo.html
 tsdm.me###ts_sidebar_base
 
-! ourbits
-ourbits.club###ad_belownav
+! pt
+###ad_belownav
 
 ! 价值观
 ||tracert.alipay.com
