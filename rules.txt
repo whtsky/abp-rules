@@ -89,3 +89,7 @@ tsdm.me###ts_sidebar_base
 
 !duowan
 ||duowan.com/s/statistics.js
+
+!busuanzi - site pv tracking
+!https://busuanzi.ibruce.info/
+||busuanzi.ibruce.info
