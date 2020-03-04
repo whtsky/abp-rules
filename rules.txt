@@ -23,7 +23,8 @@ tsdm.me###ts_sidebar_base
 
 ! 价值观
 ||tracert.alipay.com
-
+||retcode.taobao.com/r.png
+||retcode.alicdn.com/retcode
 ||googletagmanager.com/gtag/js
 
 ! baidu
