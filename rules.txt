@@ -94,3 +94,9 @@ tsdm.me###ts_sidebar_base
 !busuanzi - site pv tracking
 !https://busuanzi.ibruce.info/
 ||busuanzi.ibruce.info
+
+!https://github.com/SukkaW/cloudflare-workers-async-google-analytics
+||cdn.jsdelivr.net/npm/cfga@*$script
+!blog.skk.moe
+||cdn.jsdelivr.net/npm/skx@*$script
+||blog.skk.moe/optical
