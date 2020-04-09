@@ -103,3 +103,5 @@ tsdm.me###ts_sidebar_base
 
 !pingwest
 ||cdn.pingwest.com/lib/raven.min.js
+
+||albatross.10086.cn^
