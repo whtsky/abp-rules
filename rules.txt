@@ -25,6 +25,8 @@ tsdm.me###ts_sidebar_base
 ||tracert.alipay.com
 ||retcode.taobao.com/r.png
 ||retcode.alicdn.com/retcode
+||ur.alipay.com/tracert_*$script
+
 ||googletagmanager.com/gtag/js
 
 ! baidu
