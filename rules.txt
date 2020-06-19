@@ -103,6 +103,10 @@ tsdm.me###ts_sidebar_base
 ||cdn.jsdelivr.net/npm/skx@*$script
 ||blog.skk.moe/optical
 
+!zhihu
+||www.zhihu.com/sc-profiler
+||unpkg.zhimg.com/@cfe/sentry-script@*$script
+
 !pingwest
 ||cdn.pingwest.com/lib/raven.min.js
 
