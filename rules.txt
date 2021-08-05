@@ -111,3 +111,6 @@ tsdm.me###ts_sidebar_base
 ||cdn.pingwest.com/lib/raven.min.js
 
 ||albatross.10086.cn^
+
+!baidu
+||fclog.baidu.com
